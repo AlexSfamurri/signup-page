@@ -9,6 +9,14 @@ a{
     color: orange;
 }
 h1{
-    text-align: center;
     font-size: 3rem;
+}
+header{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+footer{
+    text-align: right;
 }

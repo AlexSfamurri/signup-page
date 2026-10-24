@@ -56,9 +56,25 @@
                 <h2>
                     TTRPG Campaign/One-Shot Sign Up
                 </h2>
-                <p>
-                    Once you find a date and time that works for you, don't forget to sign up.
-                </p>
+                <form>
+                    <label for="name">Your name</label>
+                    <input type="text" id="name" name="name" required>
+
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="you@example.com" required>
+
+                    <label for="session">Which day works best for you?</label>
+                    <select id="session" name="session">
+                        <option value="first">First Sunday</option>
+                        <option value="third">Third Sunday</option>
+                        <option value="either">Either is fine</option>
+                    </select>
+
+                    <label for="message">Anything we should know?</label>
+                    <textarea id="message" name="message" rows="4"></textarea>
+
+                    <button type="submit">Sign me up</button>
+                </form>
             </section>
 
         </main>

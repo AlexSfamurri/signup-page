@@ -18,3 +18,4 @@
 | 6 | put a little something in the footer | footer now has content | main |
 | 7 | added box class and some css for it | Add box around about section | main |
 | 8 | changed the title to better fit the slight shift in direction | changed to TTRPG | main |
+| 9 | added box class to other sections and flex box for the nav | flex nav | main |

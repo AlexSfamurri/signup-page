@@ -21,3 +21,4 @@
 | 9 | added box class to other sections and flex box for the nav | flex nav | main |
 | 10 | pasted the snippet and modifed to fit | Add signup form | main |
 | 11 | pasted snipped in css | Style the form | main |
+| 12 | added created by to the footer | added created by to the footer | main |

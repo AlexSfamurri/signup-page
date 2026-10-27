@@ -23,3 +23,4 @@
 | 11 | pasted snipped in css | Style the form | main |
 | 12 | added created by to the footer | added created by to the footer | main |
 | 13 | add javascript snippet | add javascript snippet | main |
+| 14 | add more js during class | added more js | main |

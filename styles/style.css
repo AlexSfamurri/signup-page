@@ -1,8 +1,9 @@
+* {
+    box-sizing: border-box;
+}
 html {
     scroll-behavior: smooth;
 }
-
-
 body{
     background-color: black;
     color: orange;
@@ -32,19 +33,18 @@ footer{
     border: 4px solid darkgreen;
     padding: 48px;
 }
+/* Form styles */
 label {
     display: block;
     margin-top: 16px;
     font-weight: bold;
 }
-
 input, select, textarea {
     width: 100%;
     max-width: 30rem;
     padding: 8px;
     font: inherit;
 }
-
 button {
     margin-top: 16px;
     padding: 10px 20px;

@@ -44,6 +44,56 @@
                     Here at Gherst and Gerblins, we like to make different levels of spooky tabletop role playing game campaigns or one-shots for players to enjoy. Always a good time, especially for spooky season and for those who spooky season never ends.
                 </p>
             </section>
+            <section id="reasons">
+                <h2>
+                    Three Reasons to join us!
+                </h2>
+                <!-- main containter for the cards -->
+                <div class="cards">
+                    <!-- card 1 -->
+                    <div class="card">
+                        <h3>
+                            Fun!
+                        </h3>
+                        <p>
+                            TTRPG's are very fun and great ways to spend a day. Let your imagination grow.
+                        </p>
+                    </div>
+                    <!-- card 2 -->
+                    <div class="card">
+                        <h3>
+                            Friends!
+                        </h3>
+                        <p>
+                            Human contact has proven to have long term benificial aspects, not limited to:
+                        </p>
+                        <ul>
+                            <li>
+                                Laughter
+                            </li>
+                            <li>
+                                High Fives
+                            </li>
+                            <li>
+                                Stories
+                            </li>
+                            <li>
+                                Positive Memories
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- card 3 -->
+                    <di class="card">
+                        <h3>
+                            Theraputic!
+                        </h3>
+                        <p>
+                            Participating in collaborative story telling allows us to get out of our own heads and let us deal with certain experiences that we can overcome as a group.
+                        </p>
+                    </di>
+                </div>
+
+            </section>
             <section id="schedule" class="box">
                 <h2>
                     Our Schedule
@@ -58,24 +108,76 @@
                 <h2>
                     TTRPG Campaign/One-Shot Sign Up
                 </h2>
-                <form>
-                    <label for="name">Your name</label>
-                    <input type="text" id="name" name="name" required>
+                <form autocomplete="off">
+                    <div class="field">
+                        <label for="name">
+                            Your name
+                        </label>
+                        <input 
+                            type="text" 
+                            id="name" 
+                            name="name" 
+                            required>
+                    </div>
+                    
+                    <div class="field">
+                        <label for="email">
+                            Email
+                        </label>
+                        <input 
+                            type="email" 
+                            id="email" 
+                            name="email" 
+                            placeholder="you@example.com" 
+                            required>
+                    </div>
+                    
+                    <div class="field">
+                        <label for="password">
+                            Create a password
+                        </label>
+                        <input 
+                            type="password" 
+                            id="password" 
+                            placeholder="password" 
+                            name="password" 
+                            required>
+                    </div>
+                    
+                    <div class="field">
+                        <label for="session">
+                            Which day works best for you?
+                        </label>
+                        <select 
+                            id="session" 
+                            name="session">
+                            <option value="first">
+                                First Sunday
+                            </option>
+                            <option value="third">
+                                Third Sunday
+                            </option>
+                            <option value="either">
+                                Either is fine
+                            </option>
+                        </select>
+                    </div>
+                    
+                    <div class="field">
+                        <label for="message">
+                            Anything we should know?
+                        </label>
+                        <textarea 
+                            id="message" 
+                            name="message" 
+                            rows="4">
+                        </textarea>
+                    </div>
+                    
 
-                    <label for="email">Email</label>
-                    <input type="email" id="email" name="email" placeholder="you@example.com" required>
-
-                    <label for="session">Which day works best for you?</label>
-                    <select id="session" name="session">
-                        <option value="first">First Sunday</option>
-                        <option value="third">Third Sunday</option>
-                        <option value="either">Either is fine</option>
-                    </select>
-
-                    <label for="message">Anything we should know?</label>
-                    <textarea id="message" name="message" rows="4"></textarea>
-
-                    <button type="submit">Sign me up</button>
+                    <button type="submit">
+                        Sign me up
+                    </button>
                 </form>
             </section>
 

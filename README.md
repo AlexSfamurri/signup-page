@@ -37,3 +37,4 @@ A small ttrpg gaming group beging to form and help promote fun safe places to pa
 | 18 | Add media query for hero | Add media query for hero | main |
 | 19 | added light mode | added light mode | main |
 | 20 | updated readme | updated readme | main |
+| 21 | working on css | working on css | main |

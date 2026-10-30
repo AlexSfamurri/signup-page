@@ -40,3 +40,4 @@ A small ttrpg gaming group beging to form and help promote fun safe places to pa
 | 21 | working on css | working on css | main |
 | 22 | working on css | safety commit | main |
 | 23 | working on css | made bRad for radius | main |
+| 24 | light and dark button are not letting me change their colors | lightmode btn issue | main |

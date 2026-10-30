@@ -29,6 +29,13 @@ let themeButton = document.querySelector("#theme-btn");
 
 function toggleTheme(){
     document.body.classList.toggle("light");
+
+    if (document.body.classList.contains("light")){
+        themeButton.textContent = "Dark Mode";
+    } else {
+        themeButton.textContent = "Light Mode";
+        
+    }
 }
 
 themeButton.addEventListener("click", toggleTheme);

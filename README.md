@@ -1,6 +1,6 @@
 # Gherst and Gerblins
 
-A small ttrpg gaming group beging to form and help promote fun safe places to pay, even if they are spooky.
+A small ttrpg gaming group begining to form and help promote fun safe places to play, even if they are spooky.
 
 
 [Link to live site](https://alexsfamurri.github.io/signup-page/)
@@ -43,3 +43,4 @@ A small ttrpg gaming group beging to form and help promote fun safe places to pa
 | 24 | light and dark button are not letting me change their colors | lightmode btn issue | main |
 | 25 | tried using js to change the themebtn's colors and nothing | lightmode btn issue | main |
 | 26 | commented code out that was not functioning | commented out code | main |
+| 27 | typos in readme | typos fixed in readme | main |

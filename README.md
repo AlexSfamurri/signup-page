@@ -1,8 +1,15 @@
-# signup-page
+# Gherst and Gerblins
+
+A small ttrpg gaming group beging to form and help promote fun safe places to pay, even if they are spooky.
 
 
+[Link to live site](https://alexsfamurri.github.io/signup-page/)
 
+## What I used
 
+- A form with labels and required fields
+- Flexbox for cards
+- CSS variables!
 
 
 
@@ -29,3 +36,4 @@
 | 17 | added hero section | added hero section | main |
 | 18 | Add media query for hero | Add media query for hero | main |
 | 19 | added light mode | added light mode | main |
+| 20 | updated readme | updated readme | main |

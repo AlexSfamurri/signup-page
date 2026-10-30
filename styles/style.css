@@ -19,6 +19,7 @@ body{
 }
 a{
     color: var(--brand);
+    text-decoration: none;
 }
 h1{
     font-size: 3rem;
@@ -28,9 +29,14 @@ header{
 }
 nav{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     text-align: center;
+    gap: 48px;
+    border: 6px solid var(--borderColor);
+    padding: 12px 24px;
+    border-radius: 12px;
 }
+
 footer{
     text-align: right;
 }

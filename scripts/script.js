@@ -24,3 +24,11 @@ function showNextMeeting() {
 }
 
 nextButton.addEventListener("click", showNextMeeting);
+
+let themeButton = document.querySelector("#theme-btn");
+
+function toggleTheme(){
+    document.body.classList.toggle("light");
+}
+
+themeButton.addEventListener("click", toggleTheme);

@@ -28,3 +28,4 @@
 | 16 | added flex | added flex | main |
 | 17 | added hero section | added hero section | main |
 | 18 | Add media query for hero | Add media query for hero | main |
+| 19 | added light mode | added light mode | main |

@@ -88,3 +88,9 @@ form{
     padding: 12px 24px;
     text-decoration: none;
 }
+@media (min-width: 700px) {
+  /* normal CSS rules go in here */
+    .hero h2 {
+        font-size: 3rem;
+    }
+}

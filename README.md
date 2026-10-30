@@ -38,3 +38,4 @@ A small ttrpg gaming group beging to form and help promote fun safe places to pa
 | 19 | added light mode | added light mode | main |
 | 20 | updated readme | updated readme | main |
 | 21 | working on css | working on css | main |
+| 22 | working on css | safety commit | main |

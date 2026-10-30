@@ -46,7 +46,11 @@ nav a {
     color: var(--brand);
     font-weight: bold;
     padding: 8px 16px;
-    
+    border-radius: 12px;
+}
+nav a:hover{
+    color: black;
+    background-color: yellow;
 }
 footer{
     text-align: right;

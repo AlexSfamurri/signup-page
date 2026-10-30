@@ -26,20 +26,20 @@ function showNextMeeting() {
 nextButton.addEventListener("click", showNextMeeting);
 
 let themeButton = document.querySelector("#theme-btn");
-themeButton.setAttribute("color", "black");
-themeButton.setAttribute("background-color", "white");
-
+// themeButton.setAttribute("color", "black");
+// themeButton.setAttribute("background-color", "white");
+//themeButton won't change colors of the button itself via css or js
 function toggleTheme(){
     document.body.classList.toggle("light");
 
     if (document.body.classList.contains("light")){
         themeButton.textContent = "Dark Mode";
-        themeButton.setAttribute("color", "white");
-        themeButton.setAttribute("background-color", "black");
+        // themeButton.setAttribute("color", "white");
+        // themeButton.setAttribute("background-color", "black");
     } else {
         themeButton.textContent = "Light Mode";
-        themeButton.setAttribute("color", "black");
-        themeButton.setAttribute("background-color", "white");
+        // themeButton.setAttribute("color", "black");
+        // themeButton.setAttribute("background-color", "white");
     }
 }
 

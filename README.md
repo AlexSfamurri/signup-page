@@ -42,3 +42,4 @@ A small ttrpg gaming group beging to form and help promote fun safe places to pa
 | 23 | working on css | made bRad for radius | main |
 | 24 | light and dark button are not letting me change their colors | lightmode btn issue | main |
 | 25 | tried using js to change the themebtn's colors and nothing | lightmode btn issue | main |
+| 26 | commented code out that was not functioning | commented out code | main |

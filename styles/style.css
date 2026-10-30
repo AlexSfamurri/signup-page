@@ -71,3 +71,20 @@ form{
     flex-direction: column;
     gap: 4px;
 }
+.hero {
+    background-color: purple;
+    color: white;
+    padding: 64px 24px;
+    text-align: center;
+    margin-top: 32px;
+    border-radius: 16px;
+}
+.cta {
+    display: inline-block;
+    background-color: gold;
+    color: black;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 12px 24px;
+    text-decoration: none;
+}

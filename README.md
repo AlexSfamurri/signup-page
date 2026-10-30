@@ -26,3 +26,4 @@
 | 14 | add more js during class | added more js | main |
 | 15 | added some js during class that interacts with the document | added more js | main |
 | 16 | added flex | added flex | main |
+| 17 | added hero section | added hero section | main |
